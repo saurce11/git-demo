@@ -2,9 +2,17 @@ Roses are red
 Violets are blue
 Can I hide my
 pocket
+<<<<<<< HEAD
+
 SECOND 
 CHAPTER 
 I MEAN
 COUPLET
 =======
-
+smt smt
+fio
+oif
+th 
+th
+this is from commend line
+>>>>>>> 31b4d6ce69d5b635fa4602c85aed6420a7d28e60

@@ -5,4 +5,4 @@ pocket
 smt smt
 fio
 oif
-whoami
+whoam

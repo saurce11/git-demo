@@ -6,5 +6,5 @@ pocket
 smt smt
 fio
 oif
-whoam
+whoami
 
